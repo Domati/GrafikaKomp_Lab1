@@ -1,0 +1,1 @@
+# GrafikaKomp_Lab1
